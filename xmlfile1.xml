@@ -1,0 +1,17 @@
+<employeeinfo>
+	<employee1>
+		<name>Gayathri</name>
+		<sapid>52138219</sapid>
+		<status>Non-Billable</status>
+	</employee1>
+	<employee2>
+		<name>sindhu</name>
+		<sapid>52138220</sapid>
+		<status>billable</status>
+	</employee2>
+	<employee3>
+                <name>yasmin</name>
+                <sapid>52138221</sapid>
+                <status>training</status>
+        </employee3>
+</employeeinfo>

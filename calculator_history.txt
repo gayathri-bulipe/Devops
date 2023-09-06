@@ -1,0 +1,4 @@
+2.0 Addition 3.0 = 5.0
+10.0 Subtraction 20.0 = -10.0
+10.0 Addition 20.0 = 30.0
+4.0 Subtraction 2.0 = 2.0
